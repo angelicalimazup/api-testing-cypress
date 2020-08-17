@@ -2,7 +2,7 @@
 
 Automate API test using cypress
 
-##Prerequisites
+## Prerequisites
 
 Recomded NodeJS version: v13.10.1
 
