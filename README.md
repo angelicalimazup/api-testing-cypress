@@ -2,6 +2,10 @@
 
 Automate API test using cypress
 
+##Prerequisites
+
+Recomded NodeJS version: v13.10.1
+
 ## Usage
 
 Decompacts the project.
